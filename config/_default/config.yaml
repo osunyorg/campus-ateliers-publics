@@ -6,8 +6,12 @@ params:
   search:
     active: true
   logo:
-    header: ''
-    footer: ''
+    header: /assets/images/logo.svg
+    footer: /assets/images/logo.svg
   home:
     head:
       title: site
+  image_sizes:
+    design_system:
+      lightbox:
+        disabled: true

@@ -1,0 +1,11 @@
+<footer id="document-footer" role="contentinfo">
+  {{ partial "footer/footer-simple.html" . }}
+  <div class="footer-image">
+    {{ with .Params.image }}
+      {{ partial "commons/image-figure.html" (dict
+          "image" .
+          "sizes" site.Params.image_sizes.blocks.image
+        ) }}
+    {{ end }}
+  </div>
+</footer>
