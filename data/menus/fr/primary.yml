@@ -1,0 +1,24 @@
+---
+title: Menu principal
+items:
+- title: Tarifs
+  target: https://campusartmediterranee.fr/pratiquer-en-amateur/inscriptions-et-tarifs/
+  kind: url
+  new_tab: true
+  children: []
+- title: Équipe enseignante
+  target: https://campusartmediterranee.fr/pratiquer-en-amateur/equipe-enseignante/
+  kind: url
+  new_tab: true
+  children: []
+- title: Lieux de pratique
+  target: https://campusartmediterranee.fr/pratiquer-en-amateur/lieux-de-pratiques/
+  kind: url
+  new_tab: true
+  children: []
+- title: Campus art Méditerranée
+  target: https://campusartmediterranee.fr
+  kind: url
+  new_tab: true
+  children: []
+
