@@ -2,23 +2,31 @@
 title: Menu principal
 items:
 - title: Tarifs et inscriptions
+  slug: tarifs-et-inscriptions
   target: https://campusartmediterranee.fr/pratiquer-en-amateur/inscriptions-et-tarifs/
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 - title: Équipe enseignante
+  slug: equipe-enseignante
   target: https://campusartmediterranee.fr/pratiquer-en-amateur/equipe-enseignante/
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 - title: Lieux de pratique
+  slug: lieux-de-pratique
   target: https://campusartmediterranee.fr/pratiquer-en-amateur/lieux-de-pratiques/
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 - title: Campus art Méditerranée
+  slug: campus-art-mediterranee
   target: https://campusartmediterranee.fr
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 
