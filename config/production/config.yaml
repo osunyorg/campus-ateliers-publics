@@ -7,6 +7,10 @@ osuny:
   website:
     id: e166dd51-4c02-423e-80f2-9f6756878c1d
 
+## PARAMS
+params:
+  _merge: deep
+  plausible: "atelierspublics.campusartmediterranee.fr"
 
 ## LANGUAGE
 defaultContentLanguage: fr
